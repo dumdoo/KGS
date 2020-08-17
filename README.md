@@ -3,4 +3,4 @@ Hi. These Programs will help you deal with the pain of school (not really). To u
 
 
 
-Note: These will only work on devices using the Windows Operating System.
+Note: These will only work on devices using the Windows OS or Linux Distros.
